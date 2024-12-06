@@ -1,0 +1,62 @@
+body {
+    background-color: #F3F3F3;
+}
+
+.maindiv {
+    background-color: #FFFFFF;
+    border-radius: 9px;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 3%;
+    border: 1px solid #ece9e9;
+}
+
+.h1div {
+    text-align: center;
+
+    font-size: 26px;
+}
+
+.div1 {
+
+    
+    margin: 0 auto;
+    padding: 8%;
+
+}
+.box{
+    width: 100%;
+    height: 30px;
+    background-color: #F3F3F3;
+    border: 1px solid #F3F3F3;
+    border-radius: 3px;
+    padding: 1%;
+}
+p{
+    font-size: 19px;
+}
+.button{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    border: 1px solid #F3F3F3;
+    border-radius: 3px;
+    color: white;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.p2{
+    text-align: center;
+}
+.p2>a{
+    color: rgb(233, 94, 124);
+    
+}
+hr{
+    border: 1px solid rgb(230, 226, 226);
+    margin-top: 30px;
+}
+.inputdiv{
+    margin-top: 40px;
+}
